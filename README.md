@@ -12,7 +12,7 @@
   <img align="center" alt="LuizFernando-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="LuizFernando-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="LuizFernando-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align="right" alt="Luiz-pic" height="160" style="border-radius:50px;" src="https://tenor.com/view/hack-hacker-simple-hack-cheap-hack-simple-gif-20552131">
+  <div class="tenor-gif-embed" data-postid="20552131" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hack-hacker-simple-hack-cheap-hack-simple-gif-20552131">Hack Hacker GIF</a>from <a href="https://tenor.com/search/hack-gifs">Hack GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
   
   ##
