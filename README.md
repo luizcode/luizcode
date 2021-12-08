@@ -11,8 +11,9 @@
   <img align="center" alt="LuizFernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LuizFernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LuizFernando-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="LuizFernando-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="right" alt="Luiz-pic" height="160" style="border-radius:50px;" src="https://c.tenor.com/WrR1Rxwxw3sAAAAC/nezuko-running.gif">
+  <img align="center" alt="LuizFernando-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="LuizFernando-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img align="right" alt="Luiz-pic" height="160" style="border-radius:50px;" src="https://c.tenor.com/WrR1Rxwxw3sAAAAC/nezuko-running.gif">
 </div>
   
   ##
